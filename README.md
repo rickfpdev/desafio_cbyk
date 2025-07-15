@@ -1,4 +1,4 @@
-## Projeto desafio Flutter CBYK
+## Projeto desafio Flutter
 
 👉 [Acesse o app online aqui](https://cbyk-cda5a.firebaseapp.com/)
 
